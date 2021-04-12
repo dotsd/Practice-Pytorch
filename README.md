@@ -1,6 +1,7 @@
+PyTorch Learning Series Contains Basic to Advance tutorials with Simple  Explanation
+
 # PyTorch-Learning
 
-This PyTorch Learning Series  Contains Basic to Advance tutorials with Simple  Explanation
 
 
 
